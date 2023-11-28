@@ -157,7 +157,6 @@ body{
     .container{
         flex-direction:column-reverse;
         padding: 5%;
-        margin-bottom: 100px;
     }
 
     .container-section{
@@ -166,11 +165,3 @@ body{
 
 }
 
-@media screen and (min-width: 1525px) {
-    .rodape{
-     position: fixed;
-     bottom: 0;
-     left: 0;
-     width: 100%;
-   }
- }
