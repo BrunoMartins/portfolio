@@ -166,5 +166,8 @@ body{
         width: auto;
     }
 
+    .cabeçalho-link{
+        font-size: 1.10rem;
+    }
 }
 
